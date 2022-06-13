@@ -1,7 +1,6 @@
 import classes from './Contacts.module.scss';
-const Contacts = (props) => {
-  const {} = props;
 
+const Contacts = () => {
   return (
     <div className={classes.wrapper}>
       <div>

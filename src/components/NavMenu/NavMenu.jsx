@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import classes from './NavMenu.module.scss';
+
 const NavMenu = () => {
   return (
     <div className={classes.wrapper}>

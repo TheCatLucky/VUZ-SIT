@@ -3,9 +3,8 @@ import kazTrip from '../../assets/kaz-trip.webp';
 import moldTrip from '../../assets/mold-trip.webp';
 import ruTrip from '../../assets/ru-trip.webp';
 import classes from './AboutUs.module.scss';
-const AboutUs = (props) => {
-  const {} = props;
 
+const AboutUs = () => {
   return (
     <div className={classes.wrapper}>
       <div className={classes.trip}>

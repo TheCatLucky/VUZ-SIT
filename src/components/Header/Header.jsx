@@ -1,6 +1,7 @@
 import NavMenu from '../NavMenu/';
 import logo from './../../assets/logo.jpg';
 import classes from './Header.module.scss';
+
 const Header = () => {
   return (
     <header className={classes.wrapper}>
