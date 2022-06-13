@@ -1,0 +1,15 @@
+.wrapper {
+  background-color: #f3f3f3;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    tr td,
+    tr th {
+      border: 1px solid black;
+    }
+    td {
+      text-align: center;
+    }
+  }
+}

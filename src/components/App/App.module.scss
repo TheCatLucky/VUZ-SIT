@@ -1,0 +1,10 @@
+.wrapper {
+  display: grid;
+  grid-template-areas:
+    'Header Header Header'
+    'NavMenu Content Content';
+    grid-template-columns: 200px auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  gap: 2rem;
+}

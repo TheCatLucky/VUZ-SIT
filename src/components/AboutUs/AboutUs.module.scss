@@ -1,0 +1,13 @@
+.wrapper {
+  display: flex;
+  flex-flow: wrap row;
+  gap: 16px;
+
+  .trip {
+    text-align: center;
+
+    img {
+      max-height: 500px;
+    }
+  }
+}
