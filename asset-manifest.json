@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/VUZ-SIT/static/css/main.1e8c2d01.css",
+    "main.js": "/VUZ-SIT/static/js/main.3a7896fb.js",
+    "static/media/ru-trip.webp": "/VUZ-SIT/static/media/ru-trip.d529ceef388040760855.webp",
+    "static/media/Roboto-Thin.ttf": "/VUZ-SIT/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
+    "static/media/mold-trip.webp": "/VUZ-SIT/static/media/mold-trip.c4243f8aea14861c3186.webp",
+    "static/media/kaz-trip.webp": "/VUZ-SIT/static/media/kaz-trip.c8685bb88673df5f2e8d.webp",
+    "static/media/bel-trip.webp": "/VUZ-SIT/static/media/bel-trip.2808d813cc6ee49769c8.webp",
+    "index.html": "/VUZ-SIT/index.html",
+    "main.1e8c2d01.css.map": "/VUZ-SIT/static/css/main.1e8c2d01.css.map",
+    "main.3a7896fb.js.map": "/VUZ-SIT/static/js/main.3a7896fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e8c2d01.css",
+    "static/js/main.3a7896fb.js"
+  ]
+}
