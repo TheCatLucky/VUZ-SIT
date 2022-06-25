@@ -1,5 +1,5 @@
+import schemaProzeda from './../../assets/Proezd.jpg';
 import classes from './Contacts.module.scss';
-
 const Contacts = () => {
   return (
     <div className={classes.wrapper}>
@@ -13,9 +13,12 @@ const Contacts = () => {
       <div>
         <h1>Время работы call-центра</h1>
         <p>10:00 - 18:00 Понедельник - пятница</p>
-        <p>
-          <span>выходной</span> Суббота - Воскресенье
-        </p>
+        <p> Выходной : Суббота - Воскресенье </p>
+        <p>Адрес : Москва, ул. Часовая, д. 22/2</p>
+      </div>
+      <div>
+        <h1>Схема проезда</h1>
+        <img src={schemaProzeda} alt='схема проезда' />
       </div>
       <div>
         <h1>Наши реквизиты</h1>
